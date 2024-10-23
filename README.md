@@ -34,3 +34,26 @@ Google Authentication for fast login or sign-up for a user.
 Github Authentication for fast login or sign-up for a user.
 Razorpay Payment integration for acutally booking a house.
 This WanderLust project showcases my proficiency in full-stack web development, from creating an engaging front-end to managing the back-end and database components. It allows users to search for properties and experience the key functionalities of the Airbnb platform in a seamless and secure manner.
+
+
+🛠️ Technologies & Packages Used:
+
+MongoDB
+Express.js
+Node.js
+Passport.js for Authentication
+Cloudinary for Image Storage
+Connect Flash for Flash Messages
+Connect Mongo for Session Storage
+Cookie Parser for Parsing Cookies
+Dotenv for Environment Variables
+EJS for Template Rendering
+Express Session for Session Handling
+Joi for Data Validation
+Mongoose for MongoDB Object Modeling
+Multer for File Uploads
+Passport Local for Local Authentication
+Passport Local Mongoose for Mongoose-Specific Authentication
+
+
+
